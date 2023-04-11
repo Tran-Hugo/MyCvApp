@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCVApp</string>
+    <string name="user_name">Hugo</string>
+    <string name="last_name">Tran</string>
+    <string name="phone_number">0659864590</string>
+    <string name="email">tranmshugo@gmail.com</string>
+    <string name="adress">5 Bd Camille St Saëns, Lognes</string>
+</resources>
